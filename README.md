@@ -5,3 +5,4 @@ It calculates simple interest based on principal, rate of interest, and time per
 
 ## Formula
 Simple Interest = (Principal * Rate * Time) / 100
+Fixed typo in simple interest calculator 
